@@ -597,3 +597,6 @@ footer::before{
   .strip-track{animation:none;}
   *{transition-duration:.01ms !important;}
 }
+.prueba{
+  width: 70%;
+}
